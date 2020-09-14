@@ -20,14 +20,14 @@ I'm a tech community advocate who is passionate about building community, attrac
 
 
 ## Find me around the web 🌎: <a href="https://www.techoutsiders.com.au"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/msandfor/msandfor/master/octomichelle/octomichelle1.gif?raw=true"></a>
-on <a href="https://www.techoutsiders.com.au">TechOutSiders</a> 📹 ✍🏾
+- on <a href="https://www.techoutsiders.com.au">TechOutSiders</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/michellesandford/">LinkedIn</a> 💼
 - Salty and Sweet commentary on <a href="https://twitter.com/msandfor">Twitter</a> 💼
 
 - :cloud: I’m currently working at Microsoft
-- 🌱 I’m currently learning through FreeCodeCamp and Microsoft Learn
-- 👯 I’m looking to collaborate on Nuevo Foundation and SheCodes Australia activities
+- :computer: I’m currently learning through FreeCodeCamp and Microsoft Learn
+- :raising_hand: I’m looking to collaborate on Nuevo Foundation and SheCodes Australia activities
 - 🤔 I’m looking for help with improving my Open Source Contribution on Github
 - 💬 Ask me about my Shihtzu's
-- 😄 Pronouns: She/Her
+- :woman: Pronouns: She/Her
 - ⚡ Fun fact: ...

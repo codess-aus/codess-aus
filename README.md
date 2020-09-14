@@ -25,7 +25,8 @@ I'm a tech advocate who is passionate about building community, attracting more 
 - Salty and Sweet commentary on <a href="https://twitter.com/msandfor">Twitter</a> :bird:
 
 - :cloud::zap: I work at Microsoft
-- :computer: I’m currently coding my way through <a href="https://freecodecamp.org/">FreeCodeCamp</a> and <a href="https://docs.microsoft.com/en-us/learn/">Microsoft Learn
+- :computer: I’m currently coding my way through <a href="https://freecodecamp.org/">FreeCodeCamp</a> and <a href="https://docs.microsoft.com/en-us/learn/">Microsoft Learn</a>
+
 - :raising_hand: I collaborate with Nuevo Foundation and SheCodes Australia to make technology more inclusive
 - :octocat: I’m looking for help with improving my Open Source Contribution on Github
 - 💬 Ask me about my Shihtzu's :lion: :bear:

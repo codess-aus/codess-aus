@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 I'm a tech community advocate who is passionate about building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. Some technologies I enjoy working with include Python and Javascript. I have a golden Octocat as thanks for my on my involvement in the tech community.  
 
 
-## Find me around the web 🌎: <a href="https://www.techoutsiders.com.au"><img align="left" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/main/octomichelle/octomichelle.gif?raw=true"></a>
+## Find me around the web 🌎: <a href="https://www.techoutsiders.com.au"><img align="left" width="150" height="150" src="https://github.com/msandfor/msandfor/octomichelle/octomichelle.gif?raw=true"></a>
 or <a href="https://www.techoutsiders.com.au">TechOutSiders</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/michellesandford/">LinkedIn</a> 💼

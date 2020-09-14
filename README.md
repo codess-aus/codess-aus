@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Michelle 👋
 
 <!--
 **msandfor/msandfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://raw.githubusercontent.com/msandfor/msandfor/master/gh-header-image.gif" alt="banner that says Michelle Sandford - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Michelle">
+I'm a tech community advocate who is passionate about building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. Some technologies I enjoy working with include Python and Javascript. I have a golden Octocat as thanks for my on my involvement in the tech community.  
+
+
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+or <a href="https://www.techoutsiders.com.au">TechOutSiders</a> 📹 ✍🏾
+- Sharing updates on <a href="https://www.linkedin.com/in/michellesandford/">LinkedIn</a> 💼

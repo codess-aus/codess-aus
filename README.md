@@ -24,7 +24,7 @@ I'm a tech advocate who is passionate about building community, attracting more 
 - Sharing updates on <a href="https://www.linkedin.com/in/michellesandford/">LinkedIn</a> 💼
 - Salty and Sweet commentary on <a href="https://twitter.com/msandfor">Twitter</a> 💼
 
-- :cloud: I work at Microsoft
+- :cloud::zap: I work at Microsoft
 - :computer: I’m currently coding my way through FreeCodeCamp and Microsoft Learn
 - :raising_hand: I collaborate with Nuevo Foundation and SheCodes Australia to make technology more inclusive
 - :octocat: I’m looking for help with improving my Open Source Contribution on Github

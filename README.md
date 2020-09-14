@@ -27,7 +27,7 @@ I'm a tech advocate who is passionate about building community, attracting more 
 - :cloud: I work at Microsoft
 - :computer: I’m currently coding my way through FreeCodeCamp and Microsoft Learn
 - :raising_hand: I collaborate with Nuevo Foundation and SheCodes Australia to make technology more inclusive
-- 🤔 I’m looking for help with improving my Open Source Contribution on Github
+- :github: I’m looking for help with improving my Open Source Contribution on Github
 - 💬 Ask me about my Shihtzu's
 - :woman: Pronouns: She/Her
 - ⚡ Fun fact: I surf both waves and webs

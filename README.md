@@ -24,7 +24,7 @@ on <a href="https://www.techoutsiders.com.au">TechOutSiders</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/michellesandford/">LinkedIn</a> 💼
 - Salty and Sweet commentary on <a href="https://twitter.com/msandfor">Twitter</a> 💼
 
-- 🔭 I’m currently working at Microsoft
+- :cloud: I’m currently working at Microsoft
 - 🌱 I’m currently learning through FreeCodeCamp and Microsoft Learn
 - 👯 I’m looking to collaborate on Nuevo Foundation and SheCodes Australia activities
 - 🤔 I’m looking for help with improving my Open Source Contribution on Github

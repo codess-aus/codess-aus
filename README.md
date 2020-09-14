@@ -20,14 +20,14 @@ I'm a tech advocate who is passionate about building community, attracting more 
 
 
 ## Surfing both Waves and Webs 🌎: <a href="https://www.techoutsiders.com.au"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/msandfor/msandfor/master/octomichelle/octomichelle1.gif?raw=true"></a>
-- I think outside the Xbox at <a href="https://www.techoutsiders.com.au">TechOutSiders</a> 📹 ✍🏾
-- Sharing updates on <a href="https://www.linkedin.com/in/michellesandford/">LinkedIn</a> 💼
-- Salty and Sweet commentary on <a href="https://twitter.com/msandfor">Twitter</a> 💼
+- I think outside the Xbox at <a href="https://www.techoutsiders.com.au">TechOutSiders</a> :earth_asia:
+- Sharing updates on <a href="https://www.linkedin.com/in/michellesandford/">LinkedIn</a> :honey_pot:
+- Salty and Sweet commentary on <a href="https://twitter.com/msandfor">Twitter</a> :bird:
 
 - :cloud::zap: I work at Microsoft
-- :computer: I’m currently coding my way through FreeCodeCamp and Microsoft Learn
+- :computer: I’m currently coding my way through <a href="https://freecodecamp.org/">FreeCodeCamp</a> and <a href="https://docs.microsoft.com/en-us/learn/">Microsoft Learn
 - :raising_hand: I collaborate with Nuevo Foundation and SheCodes Australia to make technology more inclusive
 - :octocat: I’m looking for help with improving my Open Source Contribution on Github
 - 💬 Ask me about my Shihtzu's
 - :woman: Pronouns: She/Her
-- ⚡ Fun fact: I have a golden Octocat given to me by my Github friend as thanks for my contribution the tech community.
+- ⚡ Fun fact: I have a golden Octocat given to me by my Github friend as thanks for my contribution to the tech community.

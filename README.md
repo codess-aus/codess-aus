@@ -28,6 +28,7 @@ I'm a tech advocate who is passionate about building community, attracting more 
 - [YouTube](https://www.youtube.com/c/MichelleSandford) Conference Talks etc 📺 
 - [Website](http://techoutsiders.com.au) Thinking Outside the XBox 🌐 
 
+
 ### Other Stuff
 
 - :cloud::zap: I work at <a href="https://www.microsoft.com/inculture/people-who-inspire/">Microsoft</a> 
@@ -40,5 +41,5 @@ I'm a tech advocate who is passionate about building community, attracting more 
 
 
 
-- 💬 Ask me about my [Shihtzu's](http://instagram.com/leoandsnickers) :lion: :bear:
+- 💬 Ask me about my [Shihtzu's](http://instagram.com/leoandsnickers) :lion: :bear: :panda:
 <img src="https://raw.githubusercontent.com/msandfor/msandfor/master/doggos.gif" alt="banner that shows Michelle's 3 dogs - Leo, Snickers and Chouette">

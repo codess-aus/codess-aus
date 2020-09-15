@@ -21,11 +21,11 @@ I'm a tech advocate who is passionate about building community, attracting more 
 
 ### Surfing both Waves and Webs :earth_asia: 
 
-- [Twitter](https://twitter.com/msandfor) :bird:
-- [Instagram](http://instagram.com/techgirlwa) 📸
+- [Twitter](https://twitter.com/msandfor) Usually Sweet but Sometimes Salty :bird:
+- [Instagram](http://instagram.com/techgirlwa) More than Words📸
 - [LinkedIn](http://linkedin.com/in/michellesandford) :honey_pot:
-- [YouTube](https://www.youtube.com/c/MichelleSandford) 📺 
-- [Website](http://techoutsiders.com.au) 🌐 
+- [YouTube](https://www.youtube.com/c/MichelleSandford) Conference Talks etc 📺 
+- [Website](http://techoutsiders.com.au) Thinking Outside the XBox 🌐 
 
 ### Other Stuff
 

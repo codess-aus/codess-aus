@@ -41,5 +41,5 @@ I'm a tech advocate who is passionate about building community, attracting more 
 
 
 
-- 💬 Ask me about my [Shihtzu's](http://instagram.com/leoandsnickers) :lion: :bear: :panda:
+- 💬 Ask me about my [Shihtzu's](http://instagram.com/leoandsnickers) :lion: :bear: :panda_face:
 <img src="https://raw.githubusercontent.com/msandfor/msandfor/master/doggos.gif" alt="banner that shows Michelle's 3 dogs - Leo, Snickers and Chouette">

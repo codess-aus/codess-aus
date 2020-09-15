@@ -22,7 +22,7 @@ I'm a tech advocate who is passionate about building community, attracting more 
 ### Surfing both Waves and Webs :earth_asia: 
 
 - [Twitter](https://twitter.com/msandfor) :bird:
-- [Instagram](http://instagram.com/msandfor_) 📸
+- [Instagram](http://instagram.com/techgirlwa) 📸
 - [LinkedIn](http://linkedin.com/in/michellesandford) :honey_pot:
 - [YouTube](https://www.youtube.com/c/MichelleSandford) 📺 
 - [Website](http://techoutsiders.com.au) 🌐 
@@ -32,13 +32,9 @@ I'm a tech advocate who is passionate about building community, attracting more 
 - :cloud::zap: I work at <a href="https://www.microsoft.com/inculture/people-who-inspire/">Microsoft</a> 
 - :computer: I’m currently coding my way through <a href="https://freecodecamp.org/">FreeCodeCamp</a> and <a href="https://docs.microsoft.com/en-us/learn/">Microsoft Learn</a>
 
-
-
-
-
 - :raising_hand: I collaborate with <a href="https://www.nuevofoundation.org/">Nuevo Foundation</a> and <a href="https://shecodes.com.au/">She Codes Australia</a> to make technology more inclusive
 - :octocat: I’m looking for help with improving my Open Source Contribution on Github
-- 💬 Ask me about my Shihtzu's :lion: :bear:
+- 💬 Ask me about my [Shihtzu's](http://instagram.com/leoandsnickers) :lion: :bear:
 - :woman: Pronouns: She/Her
 - ⚡ Fun fact: I have a golden Octocat given to me by my Github friend as thanks for my contribution to the tech community.
 

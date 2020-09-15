@@ -20,6 +20,7 @@ I'm a tech advocate who is passionate about building community, attracting more 
 
 
 ### Surfing both Waves and Webs :earth_asia: 
+<img align="right" width="150" height="150" src="https://raw.githubusercontent.com/msandfor/msandfor/master/octomichelle/octomichelle1.gif?raw=true"></a>
 
 - [Twitter](https://twitter.com/msandfor) Usually Sweet but Sometimes Salty :bird:
 - [Instagram](http://instagram.com/techgirlwa) More than Words📸
@@ -37,7 +38,7 @@ I'm a tech advocate who is passionate about building community, attracting more 
 - :woman: Pronouns: She/Her
 - ⚡ Fun fact: I have a golden Octocat given to me by my Github friend as thanks for my contribution to the tech community.
 
-<img align="left" width="150" height="150" src="https://raw.githubusercontent.com/msandfor/msandfor/master/octomichelle/octomichelle1.gif?raw=true"></a>
+
 
 - 💬 Ask me about my [Shihtzu's](http://instagram.com/leoandsnickers) :lion: :bear:
 <img src="https://raw.githubusercontent.com/msandfor/msandfor/master/doggos.gif" alt="banner that shows Michelle's 3 dogs - Leo, Snickers and Chouette">

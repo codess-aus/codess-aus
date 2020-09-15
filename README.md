@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://raw.githubusercontent.com/msandfor/msandfor/master/gh-header-image.gif" alt="banner that says Michelle Sandford - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Michelle">
-I'm a tech advocate who is passionate about building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build chatbots for fun.   
+I'm a tech advocate who is passionate about building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build chatbots for fun. Conference and Event Addict - I run a self-help meetup for other event addicts, we call it our UnConference #SmallSteps
 
 
 ### Surfing both Waves and Webs :earth_asia: 

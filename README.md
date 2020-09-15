@@ -19,10 +19,15 @@ Here are some ideas to get you started:
 I'm a tech advocate who is passionate about building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build chatbots for fun.   
 
 
-## Surfing both Waves and Webs :earth_asia: 
-- I think outside the Xbox at <a href="https://www.techoutsiders.com.au">TechOutSiders</a> :bulb:
-- Sharing updates on <a href="https://www.linkedin.com/in/michellesandford/">LinkedIn</a> :honey_pot:
-- Salty and Sweet commentary on <a href="https://twitter.com/msandfor">Twitter</a> :bird:
+### Surfing both Waves and Webs :earth_asia: 
+
+- [Twitter](https://twitter.com/msandfor) :bird:
+- [Instagram](http://instagram.com/msandfor_) 📸
+- [LinkedIn](http://linkedin.com/in/michellesandford) :honey_pot:
+- [YouTube](https://www.youtube.com/c/MichelleSandford) 📺 
+- [Website](http://techoutsiders.com.au) 🌐 
+
+### Other Stuff
 
 - :cloud::zap: I work at Microsoft
 - :computer: I’m currently coding my way through <a href="https://freecodecamp.org/">FreeCodeCamp</a> and <a href="https://docs.microsoft.com/en-us/learn/">Microsoft Learn</a>

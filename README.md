@@ -29,10 +29,14 @@ I'm a tech advocate who is passionate about building community, attracting more 
 
 ### Other Stuff
 
-- :cloud::zap: I work at Microsoft
+- :cloud::zap: I work at <a href="https://www.microsoft.com/inculture/people-who-inspire/">Microsoft</a> 
 - :computer: I’m currently coding my way through <a href="https://freecodecamp.org/">FreeCodeCamp</a> and <a href="https://docs.microsoft.com/en-us/learn/">Microsoft Learn</a>
 
-- :raising_hand: I collaborate with Nuevo Foundation and SheCodes Australia to make technology more inclusive
+
+
+
+
+- :raising_hand: I collaborate with <a href="https://www.nuevofoundation.org/">Nuevo Foundation</a> and <a href="https://shecodes.com.au/">She Codes Australia</a> to make technology more inclusive
 - :octocat: I’m looking for help with improving my Open Source Contribution on Github
 - 💬 Ask me about my Shihtzu's :lion: :bear:
 - :woman: Pronouns: She/Her

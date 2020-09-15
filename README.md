@@ -34,8 +34,10 @@ I'm a tech advocate who is passionate about building community, attracting more 
 
 - :raising_hand: I collaborate with <a href="https://www.nuevofoundation.org/">Nuevo Foundation</a> and <a href="https://shecodes.com.au/">She Codes Australia</a> to make technology more inclusive
 - :octocat: I’m looking for help with improving my Open Source Contribution on Github
-- 💬 Ask me about my [Shihtzu's](http://instagram.com/leoandsnickers) :lion: :bear:
 - :woman: Pronouns: She/Her
 - ⚡ Fun fact: I have a golden Octocat given to me by my Github friend as thanks for my contribution to the tech community.
 
 <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/msandfor/msandfor/master/octomichelle/octomichelle1.gif?raw=true"></a>
+
+- 💬 Ask me about my [Shihtzu's](http://instagram.com/leoandsnickers) :lion: :bear:
+<img src="https://raw.githubusercontent.com/msandfor/msandfor/master/doggos.gif" alt="banner that shows Michelle's 3 dogs - Leo, Snickers and Chouette">

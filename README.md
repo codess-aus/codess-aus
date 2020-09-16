@@ -39,6 +39,12 @@ I'm a tech advocate who is passionate about building community, attracting more 
 - :woman: Pronouns: She/Her
 - ⚡ Fun fact: I have a golden Octocat given to me by my Github friend as thanks for my contribution to the tech community.
 
+### Talks
+* TedxPerth: Where Have All The Girls Gone? [Video](https://youtu.be/R6UODmQXzIs)
+* GDF Keynote: There's Always More Pie [Video](https://youtu.be/pGekaykc1c0)
+* DDDPerth: How to Raise a Robot Army over #100DaysofCode [Video](https://youtu.be/Sj9ZAq2D3AU) 
+* NDC Oslo: Rise of the Tech Influencer - Small steps you can take to increase your reach [Video](https://youtu.be/W0Lui4HlHkk)
+* DDDPerth: Rise of the Tech Influencer [Video](https://youtu.be/e_ATZWVWJzU) [Slides](https://speakerdeck.com/msandfor/number-dddperth-rise-of-the-tech-influencer-small-steps-you-can-take-to-increase-your-reach)
 
 
 - 💬 Ask me about my [Shihtzu's](http://instagram.com/leoandsnickers) :bear: :lion: :panda_face:

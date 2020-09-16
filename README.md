@@ -49,5 +49,5 @@ I'm a tech advocate who is passionate about building community, attracting more 
 - DevTalks Romania: Well Connected - Small Steps You Can Take To Increase Your Chances | [Video](https://youtu.be/7E58yb2cstY) | [Slides](https://speakerdeck.com/msandfor/well-connected)
 
 
-- 💬 Ask me about my [Shihtzu's](http://instagram.com/leoandsnickers) :bear: :lion: :panda_face:
+💬 Do you want to know more about my [Shihtzu's](http://instagram.com/leoandsnickers) ? :bear: :lion: :panda_face:
 <img src="https://raw.githubusercontent.com/msandfor/msandfor/master/doggos.gif" alt="banner that shows Michelle's 3 dogs - Leo, Snickers and Chouette">

@@ -62,7 +62,7 @@ I'm a tech advocate who is passionate about building community, attracting more 
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msandfor&layout=compact&hide=html" alt="msandfor" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=msandfor&show_icons=true" alt="msandfor" /></p>
 
-//dog stuff
+<!--dog stuff-->
 <p></p>
 💬 Do you want to know more about my [Shihtzu's](http://instagram.com/leoandsnickers) ? :bear: :lion: :panda_face: Click that Link!
 <img src="https://raw.githubusercontent.com/msandfor/msandfor/master/doggos.gif" alt="banner that shows Michelle's 3 dogs - Leo, Snickers and Chouette">

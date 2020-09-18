@@ -28,6 +28,14 @@ I'm a tech advocate who is passionate about building community, attracting more 
 - [YouTube](https://www.youtube.com/c/MichelleSandford) Conference Talks etc 📺 
 - [Website](http://techoutsiders.com.au) Thinking Outside the XBox 🌐 
 
+<p align="center">
+<a href="https://codepen.io/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="msandfor" height="30" width="30" /></a>
+<a href="https://dev.to/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="msandfor" height="30" width="30" /></a>
+<a href="https://twitter.com/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="msandfor" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/michellesandford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="michellesandford" height="30" width="30" /></a>
+<a href="https://instagram.com/techgirlwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="techgirlwa" height="30" width="30" /></a>
+</p>
+
 
 ### Other Stuff
 
@@ -48,17 +56,11 @@ I'm a tech advocate who is passionate about building community, attracting more 
 - DDDPerth: Rise of the Tech Influencer | [Video](https://youtu.be/e_ATZWVWJzU) | [Slides](https://speakerdeck.com/msandfor/number-dddperth-rise-of-the-tech-influencer-small-steps-you-can-take-to-increase-your-reach)
 - DevTalks Romania: Well Connected - Small Steps You Can Take To Increase Your Chances | [Video](https://youtu.be/7E58yb2cstY) | [Slides](https://speakerdeck.com/msandfor/well-connected)
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"></p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msandfor&layout=compact&hide=html" alt="msandfor" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=msandfor&show_icons=true" alt="msandfor" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msandfor&layout=compact&hide=html" alt="msandfor" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=msandfor&show_icons=true" alt="msandfor" /></p>
 
-<p align="center">
-<a href="https://codepen.io/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="msandfor" height="30" width="30" /></a>
-<a href="https://dev.to/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="msandfor" height="30" width="30" /></a>
-<a href="https://twitter.com/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="msandfor" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/michellesandford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="michellesandford" height="30" width="30" /></a>
-<a href="https://instagram.com/techgirlwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="techgirlwa" height="30" width="30" /></a>
-</p>
+
 
 💬 Do you want to know more about my [Shihtzu's](http://instagram.com/leoandsnickers) ? :bear: :lion: :panda_face: Click that Link!
 <img src="https://raw.githubusercontent.com/msandfor/msandfor/master/doggos.gif" alt="banner that shows Michelle's 3 dogs - Leo, Snickers and Chouette">

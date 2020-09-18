@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/msandfor/msandfor/master/gh-header-image.gif" alt="banner that says Michelle Sandford - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Michelle">
 I'm a tech advocate who is passionate about building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build chatbots for fun. 
 
+<!--developer icons-->
+<p></p>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"></p>
+
 
 ### Surfing both Waves and Webs :earth_asia: 
 <img align="right" width="150" height="150" src="https://raw.githubusercontent.com/msandfor/msandfor/master/octomichelle/octomichelle1.gif?raw=true"></a>
@@ -59,15 +63,14 @@ I'm a tech advocate who is passionate about building community, attracting more 
 - DDDPerth: Rise of the Tech Influencer | [Video](https://youtu.be/e_ATZWVWJzU) | [Slides](https://speakerdeck.com/msandfor/number-dddperth-rise-of-the-tech-influencer-small-steps-you-can-take-to-increase-your-reach)
 - DevTalks Romania: Well Connected - Small Steps You Can Take To Increase Your Chances | [Video](https://youtu.be/7E58yb2cstY) | [Slides](https://speakerdeck.com/msandfor/well-connected)
 
-<!--dashboards-->
-<p></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msandfor&layout=compact&hide=html" alt="msandfor" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=msandfor&show_icons=true" alt="msandfor" /></p>
-
 <!--dog stuff-->
-<p></p>
+
 💬 Do you want to know more about my [Shihtzu's](http://instagram.com/leoandsnickers) ? :bear: :lion: :panda_face: Click that Link!
 <img src="https://raw.githubusercontent.com/msandfor/msandfor/master/doggos.gif" alt="banner that shows Michelle's 3 dogs - Leo, Snickers and Chouette">
 
-<!--developer icons-->
-<p></p>
-<p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"></p>
+<!--dashboards-->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msandfor&layout=compact&hide=html" alt="msandfor" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=msandfor&show_icons=true" alt="msandfor" /></p>
+
+
+

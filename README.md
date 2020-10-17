@@ -36,6 +36,7 @@ I'm a tech advocate who is passionate about building community, attracting more 
 ### Surfing both Waves and Webs :earth_asia: 
 <img align="right" width="150" height="150" src="https://raw.githubusercontent.com/msandfor/msandfor/master/octomichelle/octomichelle1.gif?raw=true"></a>
 <img align="right" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/master/octomichelle/twiliowearamask.gif?raw=true"></a>
+<img align="right" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/master/octomichelle/tree.png?raw=true"></a>
 
 - [Twitter](https://twitter.com/msandfor) Usually Sweet but Sometimes Salty :bird:
 - [Instagram](http://instagram.com/techgirlwa) More than Words📸

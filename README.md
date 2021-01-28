@@ -45,8 +45,7 @@ I have attained the following Leadership Certifications.
 |![Accessibility](https://github.com/msandfor/msandfor/blob/master/assets/Acc_Badge_v4.png)|![Mentoring](https://github.com/msandfor/msandfor/blob/master/assets/Mentor-Gold.png)|![Proscii](https://github.com/msandfor/msandfor/blob/master/assets/Change_Practitioner.png)|![Challenger](https://github.com/msandfor/msandfor/blob/master/assets/Microsoft-Insight-Selling__284_29.png)|
 
 
-
-More...
+## Storytelling and more
 
 |[**Analytics**](https://www.youracclaim.com/earner/earned/badge/352507f7-377d-4290-acc6-06b57becf69e)|[**Marketing Strategy**](https://www.youracclaim.com/earner/earned/badge/b93bac3a-d4a2-4a66-a428-a1522ae0e2f4)|[**Modern Marketing**](https://www.youracclaim.com/earner/earned/badge/e80bb12f-1886-484d-abad-78ed76f6855b)|[**Storytelling**](https://www.youracclaim.com/earner/earned/badge/8c40cc72-b74d-4b03-b7ea-7bf8f1a25da5)|
 |:---:|:---:|:---:|:---:|

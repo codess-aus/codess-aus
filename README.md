@@ -89,7 +89,6 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 <!--dog stuff-->
 
 💬 Do you want to know more about my [Shihtzu's](http://instagram.com/leoandsnickers) ? :bear: :lion: :panda_face: Click that Link!
-<img src="https://raw.githubusercontent.com/msandfor/msandfor/master/doggos.gif" alt="banner that shows Michelle's 3 dogs - Leo, Snickers and Chouette">
 
 <!--dashboards-->
 

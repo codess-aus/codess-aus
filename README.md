@@ -28,11 +28,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/msandfor/msandfor/master/gh-header-image.gif" alt="banner that says Michelle Sandford - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Michelle">
 I'm a tech advocate who is passionate about building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build chatbots for fun. I mentor for SheCodes Australia, MusesCode JS, Nuevo Foundation, ABCN and Girls Programming Network. I run events, and I judge Hackathons.
 
-<!--developer icons-->
-<p></p>
-<p align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"></p>
-
-
 ### Surfing both Waves and Webs :earth_asia: 
 <img align="right" width="150" height="150" src="https://raw.githubusercontent.com/msandfor/msandfor/master/octomichelle/octomichelle1.gif?raw=true"></a>
 <img align="right" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/master/octomichelle/twiliowearamask.gif?raw=true"></a>

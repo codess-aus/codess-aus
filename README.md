@@ -94,6 +94,8 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msandfor&show_icons=true&theme=radical&layout=compact&hide=html" alt="msandfor" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=msandfor&show_icons=true&theme=radical" alt="msandfor" /></p>
 
+[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=msandfor)](https://github.com/msandfor/github-readme-stats)
+
 ![Profile views](https://gpvc.arturio.dev/msandfor)
 
 

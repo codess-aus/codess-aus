@@ -32,9 +32,9 @@ I'm a tech advocate who is passionate about building community, attracting more 
 
 I have attained the following Microsoft Certifications.  Reach out if you want tips or tricks in passing them too!
 
-|[**DP900**](https://www.youracclaim.com/earner/earned/badge/150bebcc-ad12-4fc6-9136-9f241dd86598)|[**AI100**](https://www.youracclaim.com/earner/earned/badge/4bc029c0-4e81-4ce9-b835-a7607a887b15)|[**AI900**](https://www.youracclaim.com/earner/earned/badge/2de77be7-4abf-454c-bc84-07f257c28e6c)|[**MS900**](https://www.youracclaim.com/earner/earned/badge/a0801b84-8cee-49d2-a1b2-b75981cc7bda)|
-|:---:|:---:|:---:|:---:| 
-|![DP900](https://github.com/msandfor/msandfor/blob/master/assets/azure-data-fundamentals-600x600.png)|![AI100](https://github.com/msandfor/msandfor/blob/master/assets/azure-ai-engineer-600x600.png)|![AI900](https://github.com/msandfor/msandfor/blob/master/assets/azure-ai-fundamentals-600x600.png)|![MS900](https://github.com/msandfor/msandfor/blob/master/assets/microsoft365-fundamentals-600x600.png)|
+|[**DP900**](https://www.youracclaim.com/earner/earned/badge/150bebcc-ad12-4fc6-9136-9f241dd86598)|[**AI100**](https://www.youracclaim.com/earner/earned/badge/4bc029c0-4e81-4ce9-b835-a7607a887b15)|[**AI900**](https://www.youracclaim.com/earner/earned/badge/2de77be7-4abf-454c-bc84-07f257c28e6c)|[**MS900**](https://www.youracclaim.com/earner/earned/badge/a0801b84-8cee-49d2-a1b2-b75981cc7bda)|[**AZ900**](https://www.youracclaim.com/earner/earned/badge/bbaa1454-9842-4b1e-a98c-104625575d09)|
+|:---:|:---:|:---:|:---:|:---:| 
+|![DP900](https://github.com/msandfor/msandfor/blob/master/assets/azure-data-fundamentals-600x600.png)|![AI100](https://github.com/msandfor/msandfor/blob/master/assets/azure-ai-engineer-600x600.png)|![AI900](https://github.com/msandfor/msandfor/blob/master/assets/azure-ai-fundamentals-600x600.png)|![MS900](https://github.com/msandfor/msandfor/blob/master/assets/microsoft365-fundamentals-600x600.png)|![AZ900](https://github.com/msandfor/msandfor/blob/master/assets/azure-fundamentals-600x600.png)|
 
 ### Surfing both Waves and Webs :earth_asia: 
 <img align="right" width="150" height="150" src="https://raw.githubusercontent.com/msandfor/msandfor/master/octomichelle/octomichelle1.gif?raw=true"></a>

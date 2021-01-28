@@ -92,7 +92,7 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 
 <!--dashboards-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msandfor&show_icons=true&theme=radical&hide=html" alt="Languages msandfor uses" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=msandfor&show_icons=true&theme=radical" alt="GitHub Stats for msandfor" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msandfor&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages msandfor uses" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=msandfor&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for msandfor" /></p>
 
 ![Profile views](https://gpvc.arturio.dev/msandfor)
 

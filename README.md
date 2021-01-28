@@ -30,7 +30,7 @@ I'm a tech advocate who is passionate about building community, attracting more 
 
 ## Technical Certifications
 
-These are my current Microsoft Certifications.  Check out my training notes in my Certification Repos. I'm going to try and do a new one each month, I did 3 in January, so I have started the year well.
+These are my current Microsoft Certifications.  Check out my training notes in my Certification Repositories. I'm going to try and do a new certification each month, and I completed 3 in January, so the year starts well...
 
 |[**DP900**](https://www.youracclaim.com/earner/earned/badge/150bebcc-ad12-4fc6-9136-9f241dd86598)|[**AI100**](https://www.youracclaim.com/earner/earned/badge/4bc029c0-4e81-4ce9-b835-a7607a887b15)|[**AI900**](https://www.youracclaim.com/earner/earned/badge/2de77be7-4abf-454c-bc84-07f257c28e6c)|[**MS900**](https://www.youracclaim.com/earner/earned/badge/a0801b84-8cee-49d2-a1b2-b75981cc7bda)|[**AZ900**](https://www.youracclaim.com/earner/earned/badge/bbaa1454-9842-4b1e-a98c-104625575d09)|
 |:---:|:---:|:---:|:---:|:---:| 
@@ -38,7 +38,7 @@ These are my current Microsoft Certifications.  Check out my training notes in m
 
 ## Leadership Certifications
 
-Everyone should try and do some courses on Accessibility, on Diversity, on Mentoring and Coaching and on Change if you can - I heartly recommend each of these programs I have done
+Everyone should try and do some courses on Accessibility, on Diversity, on Mentoring and Coaching and on Change if you can - I recommend each of these programs
 
 |[**Accessibility**](https://www.youracclaim.com/earner/earned/badge/781e2c17-2ec9-4e26-a81e-2d88f66d3b6a)|[**Mentoring**](https://www.youracclaim.com/earner/earned/badge/c3685d01-14eb-4a0e-b0cb-fbebb660c879)|[**Proscii**](https://www.youracclaim.com/earner/earned/badge/850560df-682b-4d92-8338-1d4b144bc271)|[**Challenger**](https://www.youracclaim.com/earner/earned/badge/45adcea2-a316-4e50-abd8-de50c2f3e21d)|
 |:---:|:---:|:---:|:---:|

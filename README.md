@@ -41,7 +41,7 @@ I have attained the following Microsoft Certifications.  Checkout my training no
 I have attained the following Leadership Certifications.
 
 |[**Accessibility**](https://www.youracclaim.com/earner/earned/badge/781e2c17-2ec9-4e26-a81e-2d88f66d3b6a)|[**Mentor**](https://www.youracclaim.com/earner/earned/badge/c3685d01-14eb-4a0e-b0cb-fbebb660c879)|[**Proscii**](https://www.youracclaim.com/earner/earned/badge/850560df-682b-4d92-8338-1d4b144bc271)|[**Challenger**](https://www.youracclaim.com/earner/earned/badge/45adcea2-a316-4e50-abd8-de50c2f3e21d)|
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |![Accessibility](https://github.com/msandfor/msandfor/blob/master/assets/Acc_Badge_v4.png)|![Mentor](https://github.com/msandfor/msandfor/blob/master/assets/Mentor-Gold.png)|![Proscii](https://github.com/msandfor/msandfor/blob/master/assets/Change_Practitioner.png)|![Challenger](https://github.com/msandfor/msandfor/blob/master/assets/Microsoft-Insight-Selling__284_29.png)|
 
 

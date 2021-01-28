@@ -74,5 +74,7 @@ I'm a tech advocate who is passionate about building community, attracting more 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msandfor&layout=compact&hide=html" alt="msandfor" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=msandfor&show_icons=true" alt="msandfor" /></p>
 
+![Profile views](https://gpvc.arturio.dev/msandfor)
+
 
 

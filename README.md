@@ -86,8 +86,8 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msandfor&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages msandfor uses" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=msandfor&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for msandfor" /></p>
 
-<img align="right" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/master/assets/octomichelle1.gif"></a>
-<img align="right" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/master/assets/twiliowearamask.gif"></a>
+<img align="left" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/master/assets/octomichelle1.gif"></a>
+<img align="left" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/master/assets/twiliowearamask.gif"></a>
 
 
 

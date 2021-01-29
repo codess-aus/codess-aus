@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/techgirlwa/)
 ![](https://img.shields.io/github/last-commit/msandfor/msandfor?&style=flat-square)
 ![](https://img.shields.io/github/followers/msandfor?label=Followers&style=flat-square)
-
+![Profile views](https://gpvc.arturio.dev/msandfor)
 
 <p align="center">
 <a href="https://codepen.io/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="msandfor" height="30" width="30" /></a>

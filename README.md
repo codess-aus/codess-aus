@@ -59,19 +59,6 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 |![Analytics](https://github.com/msandfor/msandfor/blob/master/assets/Kellogg_Analytics-01.png)|![Marketing Strategy](https://github.com/msandfor/msandfor/blob/master/assets/badge-352-modern-marketer-business-marketing-strategy.png)|![Modern Marketing](https://github.com/msandfor/msandfor/blob/master/assets/Microsoft_Kellogg_Graduate-01.png)|![Storytelling](https://github.com/msandfor/msandfor/blob/master/assets/StoryImpact-Badge-Grad-Nov-7-2017.png)|
 
 
-### Surfing both Waves and Webs :earth_asia: 
-<img align="right" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/master/assets/octomichelle1.gif"></a>
-<img align="right" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/master/assets/twiliowearamask.gif"></a>
-<img align="right" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/master/assets/octomichelle.gif"></a>
-
-- [Twitter](https://twitter.com/msandfor) Usually Sweet but Sometimes Salty :bird:
-- [Instagram](http://instagram.com/techgirlwa) More than Words📸
-- [LinkedIn](http://linkedin.com/in/michellesandford) :honey_pot:
-- [YouTube](https://www.youtube.com/c/MichelleSandford) Conference Talks etc 📺 
-- [Website](http://techoutsiders.com.au) Thinking Outside the XBox 🌐 
-
-
-
 ### Other Stuff
 
 - :cloud::zap: I work at <a href="https://www.microsoft.com/inculture/people-who-inspire/">Microsoft</a> 
@@ -99,7 +86,8 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msandfor&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages msandfor uses" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=msandfor&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for msandfor" /></p>
 
-![Profile views](https://gpvc.arturio.dev/msandfor)
+<img align="right" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/master/assets/octomichelle1.gif"></a>
+<img align="right" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/master/assets/twiliowearamask.gif"></a>
 
 
 

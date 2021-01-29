@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/msandfor)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/techgirlwa/)
 ![](https://img.shields.io/github/last-commit/msandfor/msandfor?&style=flat-square)
-![](https://img.shields.io/github/squad/msandfor?label=Follow&style=flat-square)
+![](https://img.shields.io/github/followers/msandfor?label=Followers&style=flat-square)
 
 
 <p align="center">

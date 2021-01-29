@@ -1,20 +1,17 @@
 ### Hi, I'm Michelle 👋 
 
 <!-- social links -->
-
+<p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/michellesandford)
 [![Twitter Badge](https://img.shields.io/twitter/follow/msandfor?style=social)](https://twitter.com/msandfor)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/techgirlwa/)
 ![](https://img.shields.io/github/last-commit/msandfor/msandfor?&style=flat-square)
 ![](https://img.shields.io/github/followers/msandfor?label=Followers&style=flat-square)
-
+</p>
 
 <p align="center">
 <a href="https://codepen.io/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="msandfor" height="30" width="30" /></a>
 <a href="https://dev.to/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="msandfor" height="30" width="30" /></a>
-<a href="https://twitter.com/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="msandfor" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/michellesandford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="michellesandford" height="30" width="30" /></a>
-<a href="https://instagram.com/techgirlwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="techgirlwa" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/MichelleSandford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="MichelleSandford" height="30" width="30" /></a>
 </p>
 

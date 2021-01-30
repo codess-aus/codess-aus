@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/michellesandford)
 [![Twitter Badge](https://img.shields.io/twitter/follow/msandfor?style=social)](https://twitter.com/msandfor)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/techgirlwa/)
-![](https://img.shields.io/github/last-commit/msandfor/msandfor?&style=flat-square)
+![](https://img.shields.io/github/last-commit/msandfor?&style=flat-square)
 ![](https://img.shields.io/github/followers/msandfor?label=Followers&style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/msandfor)
 

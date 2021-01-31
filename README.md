@@ -6,14 +6,6 @@
 ![](https://img.shields.io/github/followers/msandfor?label=Followers&style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/msandfor)
 
-<p align="center">
-<a href="https://twitter.com/msandfor"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/techgirlwa/"><img src="https://img.shields.io/badge/-Instagram-critical?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/michellesandford"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://codepen.io/msandfor"><img src="https://img.shields.io/badge/-Codepen.io-brightgreen?style=flat-square&logo=codepen&logoColor=white"/></a>
-<a href="https://dev.to/msandfor"><img src="https://img.shields.io/badge/-Dev.to-purple?style=flat-square&logo=dev.to&logoColor=white"/></a>
-<a href="http://www.youtube.com/c/MichelleSandford"><img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/></a>
-</p>
 
 <!--
 **msandfor/msandfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +23,17 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/msandfor/msandfor/blob/master/assets/gh-header-image.gif" alt="banner that says Michelle Sandford - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Michelle">
+
+<p align="center">
+<a href="https://twitter.com/msandfor"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/techgirlwa/"><img src="https://img.shields.io/badge/-Instagram-critical?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/michellesandford"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://codepen.io/msandfor"><img src="https://img.shields.io/badge/-Codepen.io-brightgreen?style=flat-square&logo=codepen&logoColor=white"/></a>
+<a href="https://dev.to/msandfor"><img src="https://img.shields.io/badge/-Dev.to-purple?style=flat-square&logo=dev.to&logoColor=white"/></a>
+<a href="http://www.youtube.com/c/MichelleSandford"><img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/></a>
+</p>
+
+
 I'm a tech advocate who is passionate about building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build chatbots for fun. I mentor for SheCodes Australia, MusesCode JS, Nuevo Foundation, ABCN and Girls Programming Network. I run events, and I judge Hackathons.
 
 ## Technical Certifications

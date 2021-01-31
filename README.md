@@ -12,7 +12,7 @@
 <p align="center">
 <a href="https://codepen.io/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="msandfor" height="30" width="30" /></a>
 <a href="https://dev.to/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="msandfor" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/MichelleSandford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="MichelleSandford" height="30" width="30" /></a>
+<a href="http://www.youtube.com/c/MichelleSandford"><img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/></a>
 </p>
 
 <!--

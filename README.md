@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://twitter.com/msandfor"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/techgirlwa/"><img src="https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/techgirlwa/"><img src="https://img.shields.io/badge/-Instagram-critical?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/michellesandford"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://codepen.io/msandfor"><img src="https://img.shields.io/badge/-Codepen.io-brightgreen?style=flat-square&logo=codepen&logoColor=white"/></a>
 <a href="https://dev.to/msandfor"><img src="https://img.shields.io/badge/-Dev.to-purple?style=flat-square&logo=dev.to&logoColor=white"/></a>

@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://codepen.io/msandfor">
-    <img src="https://img.shields.io/badge/-Codepen.io-grey?style=flat-square&logo=codepen&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Codepen.io-brightgreen?style=flat-square&logo=codepen&logoColor=white"/>
   </a>
 <a href="https://dev.to/msandfor">
     <img src="https://img.shields.io/badge/-Dev.to-grey?style=flat-square&logo=dev.to&logoColor=white"/>

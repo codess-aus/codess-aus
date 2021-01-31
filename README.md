@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://twitter.com/msandfor"><img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white"/></a>
   <a href="https://instagram.com/techgirlwa/"><img src="https://img.shields.io/badge/-Instagram-d3003f?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/michellesandford"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/michellesandford"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://codepen.io/msandfor"><img src="https://img.shields.io/badge/-Codepen.io-brightgreen?style=flat-square&logo=codepen&logoColor=white"/></a>
 <a href="https://dev.to/msandfor"><img src="https://img.shields.io/badge/-Dev.to-purple?style=flat-square&logo=dev.to&logoColor=white"/></a>
 <a href="http://www.youtube.com/c/MichelleSandford"><img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/></a>

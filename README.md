@@ -2,13 +2,13 @@
 
 <!-- social links -->
 
-![](https://img.shields.io/github/last-commit/msandfor/msandfor?&style=flat-square)
-![](https://img.shields.io/github/followers/msandfor?label=Followers&style=flat-square)
-![Profile views](https://gpvc.arturio.dev/msandfor)
+![](https://img.shields.io/github/last-commit/codess-aus/codess-aus?&style=flat-square)
+![](https://img.shields.io/github/followers/codess-aus?label=Followers&style=flat-square)
+![Profile views](https://gpvc.arturio.dev/codess-aus)
 
 
 <!--
-**msandfor/msandfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codess-aus/codess-aus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

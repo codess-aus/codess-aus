@@ -87,11 +87,11 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 
 <!--dashboards-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msandfor&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages msandfor uses" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=msandfor&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for msandfor" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codess-aus&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages msandfor uses" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=codess-aus&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for Codess-AUS" /></p>
 
-<img align="left" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/master/assets/octomichelle1.gif"></a>
-<img align="left" width="150" height="150" src="https://github.com/msandfor/msandfor/blob/master/assets/twiliowearamask.gif"></a>
+<img align="left" width="150" height="150" src="https://github.com/codess-aus/codess-aus/blob/master/assets/octomichelle1.gif"></a>
+<img align="left" width="150" height="150" src="https://github.com/codess-aus/codess-aus/blob/master/assets/twiliowearamask.gif"></a>
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/msandfor?style=social)](https://twitter.com/msandfor)
+[![Twitter Badge](https://img.shields.io/twitter/follow/codess_aus?style=social)](https://twitter.com/codess_aus)
 
 

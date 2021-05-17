@@ -2,7 +2,6 @@
 
 <!-- social links -->
 
-![](https://img.shields.io/github/last-commit/codess-aus/codess-aus?&style=flat-square)
 ![](https://img.shields.io/github/followers/codess-aus?label=Followers&style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/codess-aus)
 

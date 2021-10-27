@@ -37,7 +37,7 @@ I'm a tech advocate who is passionate about building community, attracting more 
 
 ## Technical Certifications
 
-These are my current Microsoft Certifications.  Check out my training notes in my Certification Repositories. I'm going to try and do a new certification each month, and I completed 3 in January, so the year starts well...
+These are my current Microsoft Certifications.  Check out my training notes in my Certification Repositories. I'm not sure what I'm doing next, just need to find some time to focus and study!
 
 |[**DP100**](https://www.youracclaim.com/earner/earned/badge/11522862-7b04-41e8-a848-1f5438d6708b)|[**DP900**](https://www.youracclaim.com/earner/earned/badge/150bebcc-ad12-4fc6-9136-9f241dd86598)|[**AI100**](https://www.youracclaim.com/earner/earned/badge/4bc029c0-4e81-4ce9-b835-a7607a887b15)|[**AI900**](https://www.youracclaim.com/earner/earned/badge/2de77be7-4abf-454c-bc84-07f257c28e6c)|[**MS900**](https://www.youracclaim.com/earner/earned/badge/a0801b84-8cee-49d2-a1b2-b75981cc7bda)|[**AZ900**](https://www.youracclaim.com/earner/earned/badge/bbaa1454-9842-4b1e-a98c-104625575d09)|
 |:---:|:---:|:---:|:---:|:---:|:---:| 

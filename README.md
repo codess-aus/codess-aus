@@ -42,7 +42,7 @@ I'm a Developer Engagment Lead who is passionate about building community, attra
 
 ## Technical Certifications
 
-These are my current Microsoft Certifications.  Check out my training notes in my Certification Repositories. I'm not sure what I'm doing next, just need to find some time to focus and study!
+These are some of my Microsoft Certifications.  Check out my training notes in my GitHub Certification Repositories. I'm not sure what I'm doing next, just need to find some time to focus and study! https://github.com/codess-aus
 
 |[**DP100**](https://www.youracclaim.com/earner/earned/badge/11522862-7b04-41e8-a848-1f5438d6708b)|[**DP900**](https://www.youracclaim.com/earner/earned/badge/150bebcc-ad12-4fc6-9136-9f241dd86598)|[**AI100**](https://www.youracclaim.com/earner/earned/badge/4bc029c0-4e81-4ce9-b835-a7607a887b15)|[**AI900**](https://www.youracclaim.com/earner/earned/badge/2de77be7-4abf-454c-bc84-07f257c28e6c)|[**AZ220**](https://www.credly.com/badges/7600f5c8-ee9e-4885-97ff-8c6cb0c42610)|[**AZ900**](https://www.youracclaim.com/earner/earned/badge/bbaa1454-9842-4b1e-a98c-104625575d09)|
 |:---:|:---:|:---:|:---:|:---:|:---:| 

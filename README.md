@@ -1,6 +1,6 @@
 ### Hi, I'm Michelle 👋 
 
-<!-- social links -->
+<!-- Followers Count and Views Count -->
 
 ![](https://img.shields.io/github/followers/codess-aus?label=Followers&style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/codess-aus)
@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Banner -->
+
 <img src="https://github.com/msandfor/msandfor/blob/master/assets/gh-header-image.gif" alt="banner that says Michelle Sandford - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Michelle">
+
+<!-- Social Links -->
 
 <p align="center">
   <a href="https://codepen.io/codess_aus"><img src="https://img.shields.io/badge/-Codepen.io-brightgreen?style=flat-square&logo=codepen&logoColor=white"/></a>
@@ -32,6 +36,7 @@ Here are some ideas to get you started:
 <a href="http://www.youtube.com/c/MichelleSandford"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
 </p>
 
+<!-- Profile Blurb -->
 
 I'm a Developer Engagment Lead who is passionate about building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build chatbots for fun. I mentor for SheCodes Australia, MusesCode JS, Nuevo Foundation, ABCN and Girls Programming Network. I run events, and I judge Hackathons. I am an Open Source Advocate. I am focused on Student and Data Science & AI Communities.
 

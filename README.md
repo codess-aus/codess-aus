@@ -80,6 +80,7 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 
 - TedxPerth: Where Have All The Girls Gone? | [Video](https://youtu.be/R6UODmQXzIs)
 - GDG Keynote: There's Always More Pie | [Video](https://youtu.be/pGekaykc1c0)
+- Global AI Bootcamp: Has Your Puppy Joined the Dark Side? | [Video](https://youtu.be/ZaV6tGFNL8g?t=3653)
 - DDDPerth 2019: How to Raise a Robot Army over #100DaysofCode | [Video](https://youtu.be/Sj9ZAq2D3AU) 
 - NDC Oslo: Rise of the Tech Influencer - Small steps you can take to increase your reach | [Video](https://youtu.be/W0Lui4HlHkk) | [Slides](https://speakerdeck.com/msandfor/rise-of-the-tech-influencer-small-steps-you-can-take-to-increase-your-reach)
 - Latency Conf: Has Your Puppy Joined the Dark Side? | [video](https://youtu.be/x2IyH_f8_LU)

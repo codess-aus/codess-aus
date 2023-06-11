@@ -3,7 +3,6 @@
 <!-- Followers Count and Views Count -->
 
 ![](https://img.shields.io/github/followers/codess-aus?label=Followers&style=flat-square)
-![Profile views](https://gpvc.arturio.dev/codess-aus)
 
 
 <!--

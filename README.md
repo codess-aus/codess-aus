@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 
 I'm the Microsoft Developer Engagment Lead in Asia based in Australia and I am focused building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build chatbots for fun. I mentor for SheCodes Australia, MusesCode JS, Nuevo Foundation, ABCN and Girls Programming Network. I run events, and I judge Hackathons. I am an Open Source Advocate. I am focused on Student and Data Science & AI Communities.
 
+[My Webpage](https://aka.ms/michellespeaker)
+
 ## Technical Certifications
 
 These are some of my Microsoft Certifications.  Check out my training notes in my GitHub Certification Repositories. I'm not sure what I'm doing next, just need to find some time to focus and study! https://github.com/codess-aus

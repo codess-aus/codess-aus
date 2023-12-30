@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!-- Profile Blurb -->
 
-I'm the Microsoft Developer Engagment Lead in Asia based in Australia and I am focused building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build chatbots for fun. I mentor for SheCodes Australia, MusesCode JS, Nuevo Foundation, ABCN and Girls Programming Network. I run events, and I judge Hackathons. I am an Open Source Advocate. I am focused on Student and Data Science & AI Communities.
+I'm the Microsoft Developer Engagment Lead in Asia based in Australia and I am focused building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build fun things with AI and code to show how easy it is to build on Azure. I mentor for SheCodes Australia, MusesCode JS, Nuevo Foundation, ABCN and Girls Programming Network. I run events, and I judge Hackathons. I am an Open Source Advocate. I am focused on emerging developer, Data Science & AI Communities. I speak at conferences around the world as often as I am invited.
 
 [Visit My Webpage](https://aka.ms/michellespeaker)
 

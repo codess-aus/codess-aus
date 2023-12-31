@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- Banner -->
 
-<img src="https://github.com/msandfor/msandfor/blob/main/assets/gh-header-image.gif" alt="banner that says Michelle Sandford - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Michelle">
+<img src="https://github.com/codess-aus/codess-aus/blob/main/assets/Coder.gif" alt="banner that says Michelle Sandford - Microsoft Developer Engagment Lead Asia alongside an anime image of Michelle with her two ShihTzus">
 
 <!-- Social Links -->
 

@@ -79,14 +79,15 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 
 ### Talks
 
-- TedxPerth: Where Have All The Girls Gone? | [Video](https://youtu.be/R6UODmQXzIs)
-- GDG Keynote: There's Always More Pie | [Video](https://youtu.be/pGekaykc1c0)
-- Global AI Bootcamp: Has Your Puppy Joined the Dark Side? | [Video](https://youtu.be/ZaV6tGFNL8g?t=3653)
-- DDDPerth 2021: Using Data Science to Peek Inside the Black Box | [Video](https://youtu.be/0ofzzga9MCg)
-- DDDPerth 2019: How to Raise a Robot Army over #100DaysofCode | [Video](https://youtu.be/Sj9ZAq2D3AU) 
-- NDC Oslo: Rise of the Tech Influencer - Small steps you can take to increase your reach | [Video](https://youtu.be/W0Lui4HlHkk) | [Slides](https://speakerdeck.com/msandfor/rise-of-the-tech-influencer-small-steps-you-can-take-to-increase-your-reach)
-- Latency Conf: Has Your Puppy Joined the Dark Side? | [video](https://youtu.be/x2IyH_f8_LU)
-- DDDPerth 2021: Using Data Science to Take a Peek Inside the Black Box | [video](https://youtu.be/0ofzzga9MCg) | [Slides with notes](https://speakerdeck.com/msandfor/show-your-work-using-data-science-to-peek-inside-the-black-box)
+- TedxPerth: | [Where Have All The Girls Gone?](https://youtu.be/R6UODmQXzIs)
+- NDC Conferences 2022-23 (London, Copenhagen, Porto, Oslo, Melbourne) | [The Modern Trolley Problem - Responsible AI Principles](https://youtu.be/ZDxcQm2UmTY?si=mVeya9Gzd00KUzk3)
+- GDG Keynote | [There's Always More Pie](https://youtu.be/pGekaykc1c0)
+- Global AI Bootcamp | [Has Your Puppy Joined the Dark Side?](https://youtu.be/ZaV6tGFNL8g?t=3653)
+- DDDPerth 2021 | [Using Data Science to Peek Inside the Black Box](https://youtu.be/0ofzzga9MCg)
+- DDDPerth 2019 | [How to Raise a Robot Army over #100DaysofCode](https://youtu.be/Sj9ZAq2D3AU) 
+- NDC Oslo | [Rise of the Tech Influencer - Small steps you can take to increase your reach](https://youtu.be/W0Lui4HlHkk) | [Slides](https://speakerdeck.com/msandfor/rise-of-the-tech-influencer-small-steps-you-can-take-to-increase-your-reach)
+- Latency Conf | [Has Your Puppy Joined the Dark Side?](https://youtu.be/x2IyH_f8_LU)
+- DDDPerth 2021 | [Using Data Science to Take a Peek Inside the Black Box](https://youtu.be/0ofzzga9MCg) | [Slides with notes](https://speakerdeck.com/msandfor/show-your-work-using-data-science-to-peek-inside-the-black-box)
 - Global AI Bootcamp 2022: Has Your Puppy Joined the Dark Side? (Live Coding Version, Spanish subtitles) | [video](https://youtu.be/ZaV6tGFNL8g?t=3898) | [Slides](https://speakerdeck.com/msandfor/tu-cachorro-se-ha-unido-al-lado-oscuro) | [Code Deck](https://speakerdeck.com/msandfor/build-a-pwa-with-azure-ml-built-in) | [GitHub Repo](https://github.com/codess-aus/ewok-o-cachorro)
 - DDDPerth 2018: Rise of the Tech Influencer | [Video](https://youtu.be/e_ATZWVWJzU) | [Slides](https://speakerdeck.com/msandfor/number-dddperth-rise-of-the-tech-influencer-small-steps-you-can-take-to-increase-your-reach)
 - DevTalks Romania: Well Connected - Small Steps You Can Take To Increase Your Chances | [Video](https://youtu.be/7E58yb2cstY) | [Slides](https://speakerdeck.com/msandfor/well-connected)

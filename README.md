@@ -89,8 +89,8 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 - Latency Conf | [Has Your Puppy Joined the Dark Side?](https://youtu.be/x2IyH_f8_LU)
 - DDDPerth 2021 | [Using Data Science to Take a Peek Inside the Black Box](https://youtu.be/0ofzzga9MCg) | [Slides with notes](https://speakerdeck.com/msandfor/show-your-work-using-data-science-to-peek-inside-the-black-box)
 - Global AI Bootcamp 2022: Has Your Puppy Joined the Dark Side? (Live Coding Version, Spanish subtitles) | [video](https://youtu.be/ZaV6tGFNL8g?t=3898) | [Slides](https://speakerdeck.com/msandfor/tu-cachorro-se-ha-unido-al-lado-oscuro) | [Code Deck](https://speakerdeck.com/msandfor/build-a-pwa-with-azure-ml-built-in) | [GitHub Repo](https://github.com/codess-aus/ewok-o-cachorro)
-- DDDPerth 2018: Rise of the Tech Influencer | [Video](https://youtu.be/e_ATZWVWJzU) | [Slides](https://speakerdeck.com/msandfor/number-dddperth-rise-of-the-tech-influencer-small-steps-you-can-take-to-increase-your-reach)
-- DevTalks Romania: Well Connected - Small Steps You Can Take To Increase Your Chances | [Video](https://youtu.be/7E58yb2cstY) | [Slides](https://speakerdeck.com/msandfor/well-connected)
+- DDDPerth 2018 | [Rise of the Tech Influencer](https://youtu.be/e_ATZWVWJzU) | [Slides](https://speakerdeck.com/msandfor/number-dddperth-rise-of-the-tech-influencer-small-steps-you-can-take-to-increase-your-reach)
+- DevTalks Romania| [Well Connected - Small Steps You Can Take To Increase Your Chances](https://youtu.be/7E58yb2cstY) | [Slides](https://speakerdeck.com/msandfor/well-connected)
 
 <!--dog stuff-->
 

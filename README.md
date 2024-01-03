@@ -83,6 +83,7 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 - NDC Conferences 2022-23 (London, Copenhagen, Porto, Oslo, Melbourne) | [The Modern Trolley Problem - Responsible AI Principles](https://youtu.be/ZDxcQm2UmTY?si=mVeya9Gzd00KUzk3)
 - GDG Keynote | [There's Always More Pie](https://youtu.be/pGekaykc1c0)
 - Global AI Bootcamp | [Has Your Puppy Joined the Dark Side?](https://youtu.be/ZaV6tGFNL8g?t=3653)
+- Microsoft Student Accelerator | [Learn to Build a Portfolio Website in Minutes](https://youtu.be/yIyhdFEu4Nc?si=lTbiNJAt_WhhsVS-)
 - DDDPerth 2021 | [Using Data Science to Peek Inside the Black Box](https://youtu.be/0ofzzga9MCg)
 - DDDPerth 2019 | [How to Raise a Robot Army over #100DaysofCode](https://youtu.be/Sj9ZAq2D3AU) 
 - NDC Oslo | [Rise of the Tech Influencer - Small steps you can take to increase your reach](https://youtu.be/W0Lui4HlHkk) | [Slides](https://speakerdeck.com/msandfor/rise-of-the-tech-influencer-small-steps-you-can-take-to-increase-your-reach)

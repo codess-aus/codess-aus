@@ -81,7 +81,7 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 
 - TedxPerth: | [Where Have All The Girls Gone?](https://youtu.be/R6UODmQXzIs)
 - NDC Conferences 2023-24 (Sydney, Oslo) | [Navigating the Code of Life with GitHub Copilot](https://youtu.be/J9Qjks3d7Yg?si=Mshp5zuApNOLqymC)
-- Programmable Tech 2024 (Melbourne, Sydney) | [Keynote Am I the Problem or is it AI?](https://youtu.be/LOnr2Lcbrys?si=ygYjEsnycwqNPtJf)
+- Programmable Tech 2024 Keynote (Melbourne, Sydney) | [Am I the Problem or is it AI?](https://youtu.be/LOnr2Lcbrys?si=ygYjEsnycwqNPtJf)
 - NDC Conferences 2022-23 (London, Copenhagen, Porto, Oslo, Melbourne) | [The Modern Trolley Problem - Responsible AI Principles](https://youtu.be/ZDxcQm2UmTY?si=mVeya9Gzd00KUzk3)
 - GDG Keynote | [There's Always More Pie](https://youtu.be/pGekaykc1c0)
 - Global AI Bootcamp | [Has Your Puppy Joined the Dark Side?](https://youtu.be/ZaV6tGFNL8g?t=3653)

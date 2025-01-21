@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://codepen.io/codess_aus"><img src="https://img.shields.io/badge/-Codepen.io-brightgreen?style=flat-square&logo=codepen&logoColor=white"/></a>
-<a href="https://twitter.com/codess_aus"><img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white"/></a>
+<a href="https://bsky.app/profile/codess-aus.bsky.social"><img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white"/></a>
   <a href="https://instagram.com/codess_aus/"><img src="https://img.shields.io/badge/-Instagram-d3003f?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/michellesandford"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://dev.to/codess_aus"><img src="https://img.shields.io/badge/-Dev.to-B30059?style=flat-square&logo=dev.to&logoColor=white"/></a>

@@ -80,6 +80,10 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 
 ### Talks
 
+- Oredev 2025 | [Building Trustworthy AI](https://aka.ms/Building-Trustworthy-AI)
+- Oredev 2025 | [Overcoming Your Imposter Syndrome with GitHub Copilot](https://codess-aus.github.io/Oredev-Imposter-Syndrome/)
+- PyCon Thailand | [Overcoming Your Imposter Syndrome with GitHub Copilot](https://codess-aus.github.io/pycon-thailand/)
+- PyCon Australia | [Code Without Barriers - Helping underserved communities learn to Code](https://codess-aus.github.io/Code-Without-Barriers/)
 - TedxPerth: | [Where Have All The Girls Gone?](https://youtu.be/R6UODmQXzIs)
 - NDC Conferences 2023-24 (Sydney, Oslo) | [Navigating the Code of Life with GitHub Copilot](https://youtu.be/J9Qjks3d7Yg?si=Mshp5zuApNOLqymC)
 - Programmable Tech 2024 Keynote (Melbourne, Sydney) | [Am I the Problem or is it AI?](https://youtu.be/LOnr2Lcbrys?si=ygYjEsnycwqNPtJf)

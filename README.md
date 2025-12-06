@@ -80,6 +80,7 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 
 ### Talks
 
+- DDDBrisbane 2025 | [Building Trustworthy Agents](https://aka.ms/Trustworthy-Agents)
 - Oredev 2025 | [Building Trustworthy AI](https://aka.ms/Building-Trustworthy-AI)
 - Oredev 2025 | [Overcoming Your Imposter Syndrome with GitHub Copilot](https://codess-aus.github.io/Oredev-Imposter-Syndrome/)
 - PyCon Thailand | [Overcoming Your Imposter Syndrome with GitHub Copilot](https://codess-aus.github.io/pycon-thailand/)

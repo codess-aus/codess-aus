@@ -80,6 +80,7 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 
 ### Talks
 
+- AgentCon Perth | [From Friction to Flow](https://codess-aus.github.io/Friction-to-Flow/)
 - PyCon Singapore 2026 | [Trusworthy Agents & Witty Merlions](https://codess-aus.github.io/PyconSG/)
 - Asia DevOps Conf 2026 | [Buiding the AI Native Cloud](https://codess-aus.github.io/Building-the-AI-Native-Cloud/)
 - SlashNew Conf 2026 | [Humans at the Heart of Trustworthy AI](https://codess-aus.github.io/SlashNew/)

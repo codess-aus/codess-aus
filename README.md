@@ -80,6 +80,8 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 
 ### Talks
 
+- DevOps Asia Vietnam 2026 | [Engineering the AI Native Cloud](https://codess-aus.github.io/Engineering-AINativeCloud/)
+- GitHub Developer Day Perth 2026 | [GitHub Developer Day](https://codess-aus.github.io/GitHubDeveloperDay/)
 - Perth Global Security Bootcamp 2026 | [Trustworthy AI Agents](https://codess-aus.github.io/TrustworthyAgents/)
 - AgentCon Perth 2026 | [From Friction to Flow](https://codess-aus.github.io/Friction-to-Flow/)
 - PyCon Singapore 2026 | [Trusworthy Agents & Witty Merlions](https://codess-aus.github.io/PyconSG/)

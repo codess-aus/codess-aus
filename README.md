@@ -80,7 +80,7 @@ Here are some badges to celebrate the Marketing Courses I have undertaken
 
 ### Talks
 
-- SciTech Women in STEM 2026 | [Careers in AI](odess-aus.github.io/SciTech/)
+- SciTech Women in STEM 2026 | [Careers in AI](https://Codess-aus.github.io/SciTech/)
 - Asia DevOps Conf Vietnam 2026 | [Engineering the AI Native Cloud](https://codess-aus.github.io/Engineering-AINativeCloud/)
 - GitHub Developer Day Perth 2026 | [GitHub Developer Day](https://codess-aus.github.io/GitHubDeveloperDay/)
 - Perth Global Security Bootcamp 2026 | [Trustworthy AI Agents](https://codess-aus.github.io/TrustworthyAgents/)
